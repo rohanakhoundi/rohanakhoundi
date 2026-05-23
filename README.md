@@ -20,12 +20,6 @@ Mid-level Backend Developer with **4–5 years of experience** building and main
 I specialize in **Laravel / PHP** backend systems, performance optimization, and major version upgrades.
 I enjoy working on modular architectures, clean APIs, and reliable infrastructure.
 
-- 🏢 Currently at **Puzzley** — SaaS Mobile App Builder
-- 🔧 Upgraded Laravel 4.2 → 10 & PHP 7.4 → 8.2 in production
-- 🗄️ Experienced with **multi-tenant architectures** (isolated SQLite databases per tenant)
-- 🐧 Comfortable in Linux environments, Nginx, Docker
-- 📊 Familiar with **LPIC-1 / LPIC-2** concepts
-
 ---
 
 ## 🛠️ Tech Stack
