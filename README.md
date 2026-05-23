@@ -1,5 +1,7 @@
 <h1 align="center">Hi, I'm Rohan Akhoundi 👋</h1>
 
+![Contribution Tetris](assets/contribution_tetris.gif)
+
 <p align="center">
   <b>Backend Developer</b>
 </p>
@@ -16,7 +18,7 @@
 
 ## 🧑‍💻 About Me
 
-Backend Developer with **4–5 years of experience** building and maintaining multi-tenant SaaS platforms.
+Backend Developer with **4–5 years of experience** designing, developing, and deploying efficient software solutions.
 I specialize in **Laravel / PHP** backend systems, performance optimization, and major version upgrades.
 I enjoy working on modular architectures, clean APIs, and reliable infrastructure.
 
@@ -63,18 +65,3 @@ I enjoy working on modular architectures, clean APIs, and reliable infrastructur
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=rohanakhoundi&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0d1117&ring=378ADD&fire=378ADD&currStreakLabel=378ADD&sideLabels=8b949e&currStreakNum=e6edf3&sideNums=e6edf3&dates=8b949e&stroke=21262d" height="250" />
 </p>
-
----
-
-## 🔍 Architecture & Patterns
-
-```
-✔ Multi-tenant SaaS (isolated DB per tenant)
-✔ RESTful API design
-✔ Role-Based Access Control (RBAC)
-✔ Modular architecture
-✔ Performance tuning & query optimization
-✔ Regression testing & legacy codebase stabilization
-```
-
----
