@@ -83,7 +83,3 @@ I enjoy working on modular architectures, clean APIs, and reliable infrastructur
 ```
 
 ---
-
-<p align="center">
-  <i>Open to backend opportunities — especially remote or relocation-friendly roles in Europe 🇪🇺</i>
-</p>
