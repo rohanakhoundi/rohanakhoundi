@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Rohan Akhoundi 👋</h1>
 
 <p align="center">
-  <b>Mid-level Backend Developer</b> — Building scalable SaaS systems with Laravel & PHP
+  <b>Backend Developer</b> — Building scalable SaaS systems with Laravel & PHP
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
 
 ## 🧑‍💻 About Me
 
-Mid-level Backend Developer with **4–5 years of experience** building and maintaining multi-tenant SaaS platforms.
+Backend Developer with **4–5 years of experience** building and maintaining multi-tenant SaaS platforms.
 I specialize in **Laravel / PHP** backend systems, performance optimization, and major version upgrades.
 I enjoy working on modular architectures, clean APIs, and reliable infrastructure.
 
