@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Rohan Akhoundi 👋</h1>
 
 <p align="center">
-  <b>Backend Developer</b> — Building scalable SaaS systems with Laravel & PHP
+  <b>Backend Developer</b>
 </p>
 
 <p align="center">
