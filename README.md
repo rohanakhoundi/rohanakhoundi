@@ -1,6 +1,9 @@
 <h1 align="center">Hi, I'm Rohan Akhoundi 👋</h1>
-
+<div align="center">
+  
 ![Contribution Tetris](assets/contribution_tetris.gif)
+
+</div>
 
 <p align="center">
   <b>Backend Developer</b>
