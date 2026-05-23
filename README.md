@@ -59,11 +59,14 @@ I enjoy working on modular architectures, clean APIs, and reliable infrastructur
 ---
 
 ## 📈 GitHub Stats
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=rohanakhoundi&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=1B3A6B&fire=1B3A6B&currStreakLabel=1B3A6B&sideLabels=1B3A6B" height="150" />
+</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rohanakhoundi&show_icons=true&theme=default&hide_border=true&title_color=1B3A6B&icon_color=1B3A6B" height="150" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rohanakhoundi&theme=github" height="150" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohanakhoundi&layout=compact&hide_border=true&title_color=1B3A6B" height="150" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rohanakhoundi&theme=github" height="150" />
 </p>
 
 ---
