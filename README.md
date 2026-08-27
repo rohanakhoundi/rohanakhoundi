@@ -27,42 +27,6 @@ I enjoy working on modular architectures, clean APIs, and reliable infrastructur
 
 ---
 
-## 🛠️ Tech Stack
-
-### Languages & Frameworks
-<p>
-  <img src="https://skillicons.dev/icons?i=php" title="PHP" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=laravel" title="Laravel" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=js" title="JavaScript" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=html" title="HTML" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=css" title="CSS" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=angularjs" title="AngularJS" />
-</p>
-
-### Databases & Caching
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=sqlite" title="SQLite" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=redis" title="Redis" />
-</p>
-
-### Infrastructure & DevOps
-<p>
-  <img src="https://skillicons.dev/icons?i=linux" title="Linux" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=nginx" title="Nginx" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=docker" title="Docker" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=ansible" title="Ansible" />
-</p>
-
-### Monitoring & Observability
-<p>
-  <img src="https://skillicons.dev/icons?i=sentry" title="Sentry" />&nbsp;
-  <img src="https://img.shields.io/badge/Zabbix-CC0000?style=for-the-badge&logo=zabbix&logoColor=white" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=prometheus" title="Prometheus" />
-</p>
-
----
-
 ## 📈 GitHub Stats
 
 <p align="center">
